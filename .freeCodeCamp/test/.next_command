@@ -73,3 +73,5 @@ chmod +x salon.sh
 ./salon.sh
 ./salon.sh
 ./salon.sh
+__vsc_prompt_cmd_original
+pg_dump -U freecodecamp -d salon -f salon.sql
